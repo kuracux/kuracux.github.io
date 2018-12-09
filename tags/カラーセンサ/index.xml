@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>カラーセンサ on kuracux</title>
+    <link>/tags/%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%B5/</link>
+    <description>Recent content in カラーセンサ on kuracux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 24 Nov 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%B5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>M5Stackによるカラーピッカー・カラーミキサー</title>
+      <link>/projects/colorpickermixer/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/colorpickermixer/</guid>
+      <description>概要  開発言語　：Arduino言語 ハードウェア　：M5Stack，カラーセンサ  内容 カラーセンサを用いて現実世界の色を読み取り、M5Stackに表示します。また複数の色を読み取り、それらの色を混ぜ合わせた結果を表示することも可能です。
+動作 カラーピッカー カラーセンサーが届いたのでM5Stackでカラーピッカーを作りました。ボタンを押すことで色を読み取ります。#M5Stack pic.twitter.com/a6S67sOUuy
+&amp;mdash; クラクス (@kuracux) 2018年9月12日 
+カラーミキサー カラーセンサーで検出した2つの色を混ぜた結果をM5Stackにて表示してみました#M5Stack pic.twitter.com/PGdVMADs49
+&amp;mdash; クラクス (@kuracux) 2018年9月13日 
+紹介記事 M5Stackとカラーセンサでカラーピッカーとカラーミキサーを作る - クラクスの記録帳 https://kuracux.hatenablog.jp/entry/2018/10/01/213000</description>
+    </item>
+    
+  </channel>
+</rss>

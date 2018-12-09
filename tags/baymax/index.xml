@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baymax on kuracux</title>
+    <link>/tags/baymax/</link>
+    <description>Recent content in Baymax on kuracux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 22 Nov 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/baymax/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ベイマックスグッズ通知システム</title>
+      <link>/projects/sellbaymaxnotification/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/sellbaymaxnotification/</guid>
+      <description>概要  開発言語　：Ruby ライブラリ　：Nokogiri，line_notify データベース　：sqlite3 動作環境　：Raspberry Pi3 B+  内容 指定した時刻にディズニーストアのベイマックスのページにてスクレイピングを行い、前回取得分のデータとの比較によって、新商品やセール商品を判別。 新商品やセール商品がある場合にはLINE Notifyにて画像のような情報を送ります。
+動作 ディズニーストアでベイマックスのグッズの新商品やセール品が出た場合にLINEに通知が送られてくるシステムを作りました。新商品が出た際には動画のような通知が来ます(動画の商品は実際は少し前から取り扱われております)#ベイマックス #LINENotify pic.twitter.com/sxELK0HWxy
+&amp;mdash; クラクス (@kuracux) 2018年8月31日</description>
+    </item>
+    
+  </channel>
+</rss>

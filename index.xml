@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kuracux on kuracux</title>
+    <link>/</link>
+    <description>Recent content in kuracux on kuracux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0900</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Stackを振ることによる表示画像の切り替え</title>
+      <link>/projects/shakem5stack/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/shakem5stack/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/shakeM5Stack.PNG&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発言語　　　　　　：Arduino言語&lt;/li&gt;
+&lt;li&gt;ハードウェア　　　　：M5Stack Gray，MicroSDカード&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;M5Stack Gray内臓のジャイロセンサを利用して、本体を振ることでディスプレイに表示される画像が切り替わります。本システムでは画像の切り替えを実現していますが、用途に応じて本体を振った際の処理を記述すれば様々な場面で利用できます。&lt;/p&gt;
+
+&lt;h2 id=&#34;動作&#34;&gt;動作&lt;/h2&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;M5Stackを振るとディスプレイに表示されている画像が切り替わるようにしました。 &lt;a href=&#34;https://t.co/HFKQrfQ64g&#34;&gt;pic.twitter.com/HFKQrfQ64g&lt;/a&gt;&lt;/p&gt;&amp;mdash; クラクス (@kuracux) &lt;a href=&#34;https://twitter.com/kuracux/status/1044574564481552384?ref_src=twsrc%5Etfw&#34;&gt;2018年9月25日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h2&gt;
+
+&lt;p&gt;M5Stack Grayを振ってディスプレイ上の画像を切り替える - クラクスの記録帳
+&lt;a href=&#34;https://kuracux.hatenablog.jp/entry/2018/09/27/190000&#34; target=&#34;_blank&#34;&gt;https://kuracux.hatenablog.jp/entry/2018/09/27/190000&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NTPサーバから時刻を取得してM5Stackに表示</title>
+      <link>/projects/getntpform5stack/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/getntpform5stack/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/getNTP.PNG&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発言語　　　　　　：Arduino言語&lt;/li&gt;
+&lt;li&gt;ハードウェア　　　　：M5Stack&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;スケッチ例のTFT_Clock_Digitalの時刻をNTPサーバから取得してM5Stackに表示します。元々のTFT_Clock_Digitalは現在時刻の取得を行っていなかったため、こちらを開発しました。&lt;/p&gt;
+
+&lt;h2 id=&#34;動作&#34;&gt;動作&lt;/h2&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;NTPサーバーから取得した時刻をM5StackのTFT_Clock_Digitalで表示してみました &lt;a href=&#34;https://t.co/W3zUNAq9F6&#34;&gt;pic.twitter.com/W3zUNAq9F6&lt;/a&gt;&lt;/p&gt;&amp;mdash; クラクス (@kuracux) &lt;a href=&#34;https://twitter.com/kuracux/status/1047478302674280450?ref_src=twsrc%5Etfw&#34;&gt;2018年10月3日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h2&gt;
+
+&lt;p&gt;NTPサーバから時刻を取得してM5Stackに表示する - クラクスの記録帳
+&lt;a href=&#34;https://kuracux.hatenablog.jp/entry/2018/10/08/160000&#34; target=&#34;_blank&#34;&gt;https://kuracux.hatenablog.jp/entry/2018/10/08/160000&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>M5Stackによるカラーピッカー・カラーミキサー</title>
+      <link>/projects/colorpickermixer/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/colorpickermixer/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/colorSensor.png&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発言語　　　　　　：Arduino言語&lt;/li&gt;
+&lt;li&gt;ハードウェア　　　　：M5Stack，カラーセンサ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;カラーセンサを用いて現実世界の色を読み取り、M5Stackに表示します。また複数の色を読み取り、それらの色を混ぜ合わせた結果を表示することも可能です。&lt;/p&gt;
+
+&lt;h2 id=&#34;動作&#34;&gt;動作&lt;/h2&gt;
+
+&lt;p&gt;カラーピッカー
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;カラーセンサーが届いたのでM5Stackでカラーピッカーを作りました。ボタンを押すことで色を読み取ります。&lt;a href=&#34;https://twitter.com/hashtag/M5Stack?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#M5Stack&lt;/a&gt; &lt;a href=&#34;https://t.co/a6S67sOUuy&#34;&gt;pic.twitter.com/a6S67sOUuy&lt;/a&gt;&lt;/p&gt;&amp;mdash; クラクス (@kuracux) &lt;a href=&#34;https://twitter.com/kuracux/status/1039846044148723713?ref_src=twsrc%5Etfw&#34;&gt;2018年9月12日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;カラーミキサー
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;カラーセンサーで検出した2つの色を混ぜた結果をM5Stackにて表示してみました&lt;a href=&#34;https://twitter.com/hashtag/M5Stack?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#M5Stack&lt;/a&gt; &lt;a href=&#34;https://t.co/PGdVMADs49&#34;&gt;pic.twitter.com/PGdVMADs49&lt;/a&gt;&lt;/p&gt;&amp;mdash; クラクス (@kuracux) &lt;a href=&#34;https://twitter.com/kuracux/status/1040223757397159937?ref_src=twsrc%5Etfw&#34;&gt;2018年9月13日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h2&gt;
+
+&lt;p&gt;M5Stackとカラーセンサでカラーピッカーとカラーミキサーを作る - クラクスの記録帳
+&lt;a href=&#34;https://kuracux.hatenablog.jp/entry/2018/10/01/213000&#34; target=&#34;_blank&#34;&gt;https://kuracux.hatenablog.jp/entry/2018/10/01/213000&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>スマートスピーカー(Clova)からスマートスピーカー(Amazon Echo)に命令</title>
+      <link>/projects/talksmartspeakers/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/talksmartspeakers/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/talkSmartSpeakers.png&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発言語　　　　　　：node.js&lt;/li&gt;
+&lt;li&gt;スマートスピーカー　：Clova Friends，Amazon Echo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;スマートスピーカー（Clova Friends）に聞きたいことを尋ねると別のスマートスピーカー(Amazon Echo)に質問してくれます。Clovaスキルの開発によって本システムを実現しております。&lt;/p&gt;
+
+&lt;h2 id=&#34;動作&#34;&gt;動作&lt;/h2&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;スマートスピーカーから別のスマートスピーカーにお願いするのをやってみたくなったので、Clova FriendsとAmazon Echoで実現してみました &lt;a href=&#34;https://t.co/04yo2FRJOn&#34;&gt;pic.twitter.com/04yo2FRJOn&lt;/a&gt;&lt;/p&gt;&amp;mdash; クラクス (@kuracux) &lt;a href=&#34;https://twitter.com/kuracux/status/1045821811647119360?ref_src=twsrc%5Etfw&#34;&gt;2018年9月28日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amazon EchoとESP32による物理スイッチの制御</title>
+      <link>/projects/controlroomlight/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/controlroomlight/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/controlRoomLight.PNG&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発言語　　　　　　：Arduino言語&lt;/li&gt;
+&lt;li&gt;ライブラリ　　　　　：fauxmoESP&lt;/li&gt;
+&lt;li&gt;ハードウェア　　　　：ESP32 devkit-C，サーボモータ&lt;/li&gt;
+&lt;li&gt;スマートスピーカー　：Amazon Echo&lt;/li&gt;
+&lt;li&gt;アプリ　　　　　　　：Amazon Alexa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;スマートスピーカーに話しかけることで物理スイッチのON・OFFを制御します。また、Alexaアプリから制御することも可能です。&lt;/p&gt;
+
+&lt;h2 id=&#34;動作&#34;&gt;動作&lt;/h2&gt;
+
+&lt;p&gt;音声操作およびAlexaアプリからの操作
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;Alexaのスマートホームのデバイスとして登録したESP32の音声操作版です。 &lt;a href=&#34;https://t.co/g3JYOs1E5J&#34;&gt;pic.twitter.com/g3JYOs1E5J&lt;/a&gt;&lt;/p&gt;&amp;mdash; クラクス (@kuracux) &lt;a href=&#34;https://twitter.com/kuracux/status/1043155972561154048?ref_src=twsrc%5Etfw&#34;&gt;2018年9月21日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;ESP32とAmazon Alexaを連携して物理スイッチを制御する - クラクスの記録帳
+&lt;a href=&#34;https://kuracux.hatenablog.jp/entry/2018/09/24/113000&#34; target=&#34;_blank&#34;&gt;https://kuracux.hatenablog.jp/entry/2018/09/24/113000&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;HomeMadeGrabageさんにて少し取り上げていただきました。
+Amazon Echo と 安物 ESP8266 で スマートホーム　―壁スイッチ ON/OFF― | Home Made Garbage
+&lt;a href=&#34;https://homemadegarbage.com/espalexa03&#34; target=&#34;_blank&#34;&gt;https://homemadegarbage.com/espalexa03&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>扉の開閉検出システム</title>
+      <link>/projects/detecteddoor/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/detecteddoor/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/detectedDoor.png&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発言語　　　　　　：Arduino言語&lt;/li&gt;
+&lt;li&gt;ハードウェア　　　　：Arduino Uno，リードスイッチ，圧電スピーカ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;扉の開閉を検出して圧電スピーカから音楽を鳴らします。検出にはリードスイッチを用いております。&lt;/p&gt;
+
+&lt;h2 id=&#34;動作&#34;&gt;動作&lt;/h2&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;Arduinoと圧電スピーカーとリードスイッチを用いた、扉が開いた際に音が鳴る装置です。今回はゼルダの伝説の謎解き音とファミリーマートの入店音です。 &lt;a href=&#34;https://t.co/DJuQSShMgB&#34;&gt;pic.twitter.com/DJuQSShMgB&lt;/a&gt;&lt;/p&gt;&amp;mdash; クラクス (@kuracux) &lt;a href=&#34;https://twitter.com/kuracux/status/1031510744754413568?ref_src=twsrc%5Etfw&#34;&gt;2018年8月20日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>音声操作によるスマートスピーカーのミュート制御</title>
+      <link>/projects/notrecognizevoice/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/notrecognizevoice/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/notRecognizeVoice.PNG&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発言語　　　　　　：Arduino言語&lt;/li&gt;
+&lt;li&gt;ライブラリ　　　　　：fauxmoESP&lt;/li&gt;
+&lt;li&gt;ハードウェア　　　　：ESP32 devkit-C，サーボモータ&lt;/li&gt;
+&lt;li&gt;スマートスピーカー　：Amazon Echo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;音声入力によってスマートスピーカーのミュートボタンを押します。標準では音声入力によるミュート切り替えが搭載されていなかったため作成しました。&lt;/p&gt;
+
+&lt;h2 id=&#34;動作&#34;&gt;動作&lt;/h2&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;Amazon Echoのマイクオフ機能を音声で操作する方法が分からなかったので操作できるようにしました&lt;a href=&#34;https://twitter.com/hashtag/AmazonEcho?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#AmazonEcho&lt;/a&gt; &lt;a href=&#34;https://t.co/m4JxJ4rwsY&#34;&gt;pic.twitter.com/m4JxJ4rwsY&lt;/a&gt;&lt;/p&gt;&amp;mdash; クラクス (@kuracux) &lt;a href=&#34;https://twitter.com/kuracux/status/1036131248253546496?ref_src=twsrc%5Etfw&#34;&gt;2018年9月2日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h2&gt;
+
+&lt;p&gt;Smartioさんの記事にて取り上げていただきました。&lt;/p&gt;
+
+&lt;p&gt;「スマートスピーカーはこう使え！」玄人がやってる究極のスマートライフ
+&lt;a href=&#34;https://smartio.life/news/report/vui-smartlife-ex/&#34; target=&#34;_blank&#34;&gt;https://smartio.life/news/report/vui-smartlife-ex/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ベイマックスグッズ通知システム</title>
+      <link>/projects/sellbaymaxnotification/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/sellbaymaxnotification/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/baymax1.png&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発言語　　　：Ruby&lt;/li&gt;
+&lt;li&gt;ライブラリ　　：Nokogiri，line_notify&lt;/li&gt;
+&lt;li&gt;データベース　：sqlite3&lt;/li&gt;
+&lt;li&gt;動作環境　　　：Raspberry Pi3 B+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;指定した時刻にディズニーストアのベイマックスのページにてスクレイピングを行い、前回取得分のデータとの比較によって、新商品やセール商品を判別。
+新商品やセール商品がある場合にはLINE Notifyにて画像のような情報を送ります。&lt;/p&gt;
+
+&lt;h2 id=&#34;動作&#34;&gt;動作&lt;/h2&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ディズニーストアでベイマックスのグッズの新商品やセール品が出た場合にLINEに通知が送られてくるシステムを作りました。新商品が出た際には動画のような通知が来ます(動画の商品は実際は少し前から取り扱われております)&lt;a href=&#34;https://twitter.com/hashtag/%E3%83%99%E3%82%A4%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ベイマックス&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/hashtag/LINENotify?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LINENotify&lt;/a&gt; &lt;a href=&#34;https://t.co/sxELK0HWxy&#34;&gt;pic.twitter.com/sxELK0HWxy&lt;/a&gt;&lt;/p&gt;&amp;mdash; クラクス (@kuracux) &lt;a href=&#34;https://twitter.com/kuracux/status/1035653668555476992?ref_src=twsrc%5Etfw&#34;&gt;2018年8月31日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
