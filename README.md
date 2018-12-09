@@ -1,7 +1,7 @@
 # Portfolio
-kuracux(クラクス)のポートフォリオリポジトリです。
+kuracux(クラクス)のポートフォリオ用のリポジトリです。
 
-https://kuracux.github.io/
+Webサイトはこちらです https://kuracux.github.io/
 
 ## License
 
