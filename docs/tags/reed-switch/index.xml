@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reed switch on kuracux</title>
+    <link>/tags/reed-switch/</link>
+    <description>Recent content in Reed switch on kuracux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 23 Nov 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/reed-switch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>扉の開閉検出システム</title>
+      <link>/projects/detecteddoor/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/detecteddoor/</guid>
+      <description>概要  開発言語　：Arduino言語 ハードウェア　：Arduino Uno，リードスイッチ，圧電スピーカ  内容 扉の開閉を検出して圧電スピーカから音楽を鳴らします。検出にはリードスイッチを用いております。
+動作 Arduinoと圧電スピーカーとリードスイッチを用いた、扉が開いた際に音が鳴る装置です。今回はゼルダの伝説の謎解き音とファミリーマートの入店音です。 pic.twitter.com/DJuQSShMgB
+&amp;mdash; クラクス (@kuracux) 2018年8月20日</description>
+    </item>
+    
+  </channel>
+</rss>

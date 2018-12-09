@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clovaスキル on kuracux</title>
+    <link>/tags/clova%E3%82%B9%E3%82%AD%E3%83%AB/</link>
+    <description>Recent content in Clovaスキル on kuracux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 24 Nov 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/clova%E3%82%B9%E3%82%AD%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>スマートスピーカー(Clova)からスマートスピーカー(Amazon Echo)に命令</title>
+      <link>/projects/talksmartspeakers/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/talksmartspeakers/</guid>
+      <description>概要  開発言語　：node.js スマートスピーカー　：Clova Friends，Amazon Echo  内容 スマートスピーカー（Clova Friends）に聞きたいことを尋ねると別のスマートスピーカー(Amazon Echo)に質問してくれます。Clovaスキルの開発によって本システムを実現しております。
+動作 スマートスピーカーから別のスマートスピーカーにお願いするのをやってみたくなったので、Clova FriendsとAmazon Echoで実現してみました pic.twitter.com/04yo2FRJOn
+&amp;mdash; クラクス (@kuracux) 2018年9月28日</description>
+    </item>
+    
+  </channel>
+</rss>

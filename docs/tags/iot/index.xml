@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT on kuracux</title>
+    <link>/tags/iot/</link>
+    <description>Recent content in IoT on kuracux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 24 Nov 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>M5Stackによるカラーピッカー・カラーミキサー</title>
+      <link>/projects/colorpickermixer/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/colorpickermixer/</guid>
+      <description>概要  開発言語　：Arduino言語 ハードウェア　：M5Stack，カラーセンサ  内容 カラーセンサを用いて現実世界の色を読み取り、M5Stackに表示します。また複数の色を読み取り、それらの色を混ぜ合わせた結果を表示することも可能です。
+動作 カラーピッカー カラーセンサーが届いたのでM5Stackでカラーピッカーを作りました。ボタンを押すことで色を読み取ります。#M5Stack pic.twitter.com/a6S67sOUuy
+&amp;mdash; クラクス (@kuracux) 2018年9月12日 
+カラーミキサー カラーセンサーで検出した2つの色を混ぜた結果をM5Stackにて表示してみました#M5Stack pic.twitter.com/PGdVMADs49
+&amp;mdash; クラクス (@kuracux) 2018年9月13日 
+紹介記事 M5Stackとカラーセンサでカラーピッカーとカラーミキサーを作る - クラクスの記録帳 https://kuracux.hatenablog.jp/entry/2018/10/01/213000</description>
+    </item>
+    
+    <item>
+      <title>Amazon EchoとESP32による物理スイッチの制御</title>
+      <link>/projects/controlroomlight/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/controlroomlight/</guid>
+      <description> 概要  開発言語　：Arduino言語 ライブラリ　：fauxmoESP ハードウェア　：ESP32 devkit-C，サーボモータ スマートスピーカー　：Amazon Echo アプリ　：Amazon Alexa  内容 スマートスピーカーに話しかけることで物理スイッチのON・OFFを制御します。また、Alexaアプリから制御することも可能です。
+動作 音声操作およびAlexaアプリからの操作 Alexaのスマートホームのデバイスとして登録したESP32の音声操作版です。 pic.twitter.com/g3JYOs1E5J
+&amp;mdash; クラクス (@kuracux) 2018年9月21日 
+紹介記事  ESP32とAmazon Alexaを連携して物理スイッチを制御する - クラクスの記録帳 https://kuracux.hatenablog.jp/entry/2018/09/24/113000
+ HomeMadeGrabageさんにて少し取り上げていただきました。 Amazon Echo と 安物 ESP8266 で スマートホーム　―壁スイッチ ON/OFF― | Home Made Garbage https://homemadegarbage.com/espalexa03
+  </description>
+    </item>
+    
+    <item>
+      <title>扉の開閉検出システム</title>
+      <link>/projects/detecteddoor/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/detecteddoor/</guid>
+      <description>概要  開発言語　：Arduino言語 ハードウェア　：Arduino Uno，リードスイッチ，圧電スピーカ  内容 扉の開閉を検出して圧電スピーカから音楽を鳴らします。検出にはリードスイッチを用いております。
+動作 Arduinoと圧電スピーカーとリードスイッチを用いた、扉が開いた際に音が鳴る装置です。今回はゼルダの伝説の謎解き音とファミリーマートの入店音です。 pic.twitter.com/DJuQSShMgB
+&amp;mdash; クラクス (@kuracux) 2018年8月20日</description>
+    </item>
+    
+    <item>
+      <title>音声操作によるスマートスピーカーのミュート制御</title>
+      <link>/projects/notrecognizevoice/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/notrecognizevoice/</guid>
+      <description>概要  開発言語　：Arduino言語 ライブラリ　：fauxmoESP ハードウェア　：ESP32 devkit-C，サーボモータ スマートスピーカー　：Amazon Echo  内容 音声入力によってスマートスピーカーのミュートボタンを押します。標準では音声入力によるミュート切り替えが搭載されていなかったため作成しました。
+動作 Amazon Echoのマイクオフ機能を音声で操作する方法が分からなかったので操作できるようにしました#AmazonEcho pic.twitter.com/m4JxJ4rwsY
+&amp;mdash; クラクス (@kuracux) 2018年9月2日 
+紹介記事 Smartioさんの記事にて取り上げていただきました。
+「スマートスピーカーはこう使え！」玄人がやってる究極のスマートライフ https://smartio.life/news/report/vui-smartlife-ex/</description>
+    </item>
+    
+  </channel>
+</rss>

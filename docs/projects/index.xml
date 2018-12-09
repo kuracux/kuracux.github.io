@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on kuracux</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on kuracux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>M5Stackを振ることによる表示画像の切り替え</title>
+      <link>/projects/shakem5stack/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/shakem5stack/</guid>
+      <description>概要  開発言語　：Arduino言語 ハードウェア　：M5Stack Gray，MicroSDカード  内容 M5Stack Gray内臓のジャイロセンサを利用して、本体を振ることでディスプレイに表示される画像が切り替わります。本システムでは画像の切り替えを実現していますが、用途に応じて本体を振った際の処理を記述すれば様々な場面で利用できます。
+動作 M5Stackを振るとディスプレイに表示されている画像が切り替わるようにしました。 pic.twitter.com/HFKQrfQ64g
+&amp;mdash; クラクス (@kuracux) 2018年9月25日 
+紹介記事 M5Stack Grayを振ってディスプレイ上の画像を切り替える - クラクスの記録帳 https://kuracux.hatenablog.jp/entry/2018/09/27/190000</description>
+    </item>
+    
+    <item>
+      <title>NTPサーバから時刻を取得してM5Stackに表示</title>
+      <link>/projects/getntpform5stack/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/getntpform5stack/</guid>
+      <description>概要  開発言語　：Arduino言語 ハードウェア　：M5Stack  内容 スケッチ例のTFT_Clock_Digitalの時刻をNTPサーバから取得してM5Stackに表示します。元々のTFT_Clock_Digitalは現在時刻の取得を行っていなかったため、こちらを開発しました。
+動作 NTPサーバーから取得した時刻をM5StackのTFT_Clock_Digitalで表示してみました pic.twitter.com/W3zUNAq9F6
+&amp;mdash; クラクス (@kuracux) 2018年10月3日 
+紹介記事 NTPサーバから時刻を取得してM5Stackに表示する - クラクスの記録帳 https://kuracux.hatenablog.jp/entry/2018/10/08/160000</description>
+    </item>
+    
+    <item>
+      <title>M5Stackによるカラーピッカー・カラーミキサー</title>
+      <link>/projects/colorpickermixer/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/colorpickermixer/</guid>
+      <description>概要  開発言語　：Arduino言語 ハードウェア　：M5Stack，カラーセンサ  内容 カラーセンサを用いて現実世界の色を読み取り、M5Stackに表示します。また複数の色を読み取り、それらの色を混ぜ合わせた結果を表示することも可能です。
+動作 カラーピッカー カラーセンサーが届いたのでM5Stackでカラーピッカーを作りました。ボタンを押すことで色を読み取ります。#M5Stack pic.twitter.com/a6S67sOUuy
+&amp;mdash; クラクス (@kuracux) 2018年9月12日 
+カラーミキサー カラーセンサーで検出した2つの色を混ぜた結果をM5Stackにて表示してみました#M5Stack pic.twitter.com/PGdVMADs49
+&amp;mdash; クラクス (@kuracux) 2018年9月13日 
+紹介記事 M5Stackとカラーセンサでカラーピッカーとカラーミキサーを作る - クラクスの記録帳 https://kuracux.hatenablog.jp/entry/2018/10/01/213000</description>
+    </item>
+    
+    <item>
+      <title>スマートスピーカー(Clova)からスマートスピーカー(Amazon Echo)に命令</title>
+      <link>/projects/talksmartspeakers/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/talksmartspeakers/</guid>
+      <description>概要  開発言語　：node.js スマートスピーカー　：Clova Friends，Amazon Echo  内容 スマートスピーカー（Clova Friends）に聞きたいことを尋ねると別のスマートスピーカー(Amazon Echo)に質問してくれます。Clovaスキルの開発によって本システムを実現しております。
+動作 スマートスピーカーから別のスマートスピーカーにお願いするのをやってみたくなったので、Clova FriendsとAmazon Echoで実現してみました pic.twitter.com/04yo2FRJOn
+&amp;mdash; クラクス (@kuracux) 2018年9月28日</description>
+    </item>
+    
+    <item>
+      <title>Amazon EchoとESP32による物理スイッチの制御</title>
+      <link>/projects/controlroomlight/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/controlroomlight/</guid>
+      <description> 概要  開発言語　：Arduino言語 ライブラリ　：fauxmoESP ハードウェア　：ESP32 devkit-C，サーボモータ スマートスピーカー　：Amazon Echo アプリ　：Amazon Alexa  内容 スマートスピーカーに話しかけることで物理スイッチのON・OFFを制御します。また、Alexaアプリから制御することも可能です。
+動作 音声操作およびAlexaアプリからの操作 Alexaのスマートホームのデバイスとして登録したESP32の音声操作版です。 pic.twitter.com/g3JYOs1E5J
+&amp;mdash; クラクス (@kuracux) 2018年9月21日 
+紹介記事  ESP32とAmazon Alexaを連携して物理スイッチを制御する - クラクスの記録帳 https://kuracux.hatenablog.jp/entry/2018/09/24/113000
+ HomeMadeGrabageさんにて少し取り上げていただきました。 Amazon Echo と 安物 ESP8266 で スマートホーム　―壁スイッチ ON/OFF― | Home Made Garbage https://homemadegarbage.com/espalexa03
+  </description>
+    </item>
+    
+    <item>
+      <title>扉の開閉検出システム</title>
+      <link>/projects/detecteddoor/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/detecteddoor/</guid>
+      <description>概要  開発言語　：Arduino言語 ハードウェア　：Arduino Uno，リードスイッチ，圧電スピーカ  内容 扉の開閉を検出して圧電スピーカから音楽を鳴らします。検出にはリードスイッチを用いております。
+動作 Arduinoと圧電スピーカーとリードスイッチを用いた、扉が開いた際に音が鳴る装置です。今回はゼルダの伝説の謎解き音とファミリーマートの入店音です。 pic.twitter.com/DJuQSShMgB
+&amp;mdash; クラクス (@kuracux) 2018年8月20日</description>
+    </item>
+    
+    <item>
+      <title>音声操作によるスマートスピーカーのミュート制御</title>
+      <link>/projects/notrecognizevoice/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/notrecognizevoice/</guid>
+      <description>概要  開発言語　：Arduino言語 ライブラリ　：fauxmoESP ハードウェア　：ESP32 devkit-C，サーボモータ スマートスピーカー　：Amazon Echo  内容 音声入力によってスマートスピーカーのミュートボタンを押します。標準では音声入力によるミュート切り替えが搭載されていなかったため作成しました。
+動作 Amazon Echoのマイクオフ機能を音声で操作する方法が分からなかったので操作できるようにしました#AmazonEcho pic.twitter.com/m4JxJ4rwsY
+&amp;mdash; クラクス (@kuracux) 2018年9月2日 
+紹介記事 Smartioさんの記事にて取り上げていただきました。
+「スマートスピーカーはこう使え！」玄人がやってる究極のスマートライフ https://smartio.life/news/report/vui-smartlife-ex/</description>
+    </item>
+    
+    <item>
+      <title>ベイマックスグッズ通知システム</title>
+      <link>/projects/sellbaymaxnotification/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/sellbaymaxnotification/</guid>
+      <description>概要  開発言語　：Ruby ライブラリ　：Nokogiri，line_notify データベース　：sqlite3 動作環境　：Raspberry Pi3 B+  内容 指定した時刻にディズニーストアのベイマックスのページにてスクレイピングを行い、前回取得分のデータとの比較によって、新商品やセール商品を判別。 新商品やセール商品がある場合にはLINE Notifyにて画像のような情報を送ります。
+動作 ディズニーストアでベイマックスのグッズの新商品やセール品が出た場合にLINEに通知が送られてくるシステムを作りました。新商品が出た際には動画のような通知が来ます(動画の商品は実際は少し前から取り扱われております)#ベイマックス #LINENotify pic.twitter.com/sxELK0HWxy
+&amp;mdash; クラクス (@kuracux) 2018年8月31日</description>
+    </item>
+    
+  </channel>
+</rss>

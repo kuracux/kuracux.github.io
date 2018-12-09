@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Servo on kuracux</title>
+    <link>/tags/servo/</link>
+    <description>Recent content in Servo on kuracux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 23 Nov 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/servo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amazon EchoとESP32による物理スイッチの制御</title>
+      <link>/projects/controlroomlight/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/controlroomlight/</guid>
+      <description> 概要  開発言語　：Arduino言語 ライブラリ　：fauxmoESP ハードウェア　：ESP32 devkit-C，サーボモータ スマートスピーカー　：Amazon Echo アプリ　：Amazon Alexa  内容 スマートスピーカーに話しかけることで物理スイッチのON・OFFを制御します。また、Alexaアプリから制御することも可能です。
+動作 音声操作およびAlexaアプリからの操作 Alexaのスマートホームのデバイスとして登録したESP32の音声操作版です。 pic.twitter.com/g3JYOs1E5J
+&amp;mdash; クラクス (@kuracux) 2018年9月21日 
+紹介記事  ESP32とAmazon Alexaを連携して物理スイッチを制御する - クラクスの記録帳 https://kuracux.hatenablog.jp/entry/2018/09/24/113000
+ HomeMadeGrabageさんにて少し取り上げていただきました。 Amazon Echo と 安物 ESP8266 で スマートホーム　―壁スイッチ ON/OFF― | Home Made Garbage https://homemadegarbage.com/espalexa03
+  </description>
+    </item>
+    
+    <item>
+      <title>音声操作によるスマートスピーカーのミュート制御</title>
+      <link>/projects/notrecognizevoice/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/notrecognizevoice/</guid>
+      <description>概要  開発言語　：Arduino言語 ライブラリ　：fauxmoESP ハードウェア　：ESP32 devkit-C，サーボモータ スマートスピーカー　：Amazon Echo  内容 音声入力によってスマートスピーカーのミュートボタンを押します。標準では音声入力によるミュート切り替えが搭載されていなかったため作成しました。
+動作 Amazon Echoのマイクオフ機能を音声で操作する方法が分からなかったので操作できるようにしました#AmazonEcho pic.twitter.com/m4JxJ4rwsY
+&amp;mdash; クラクス (@kuracux) 2018年9月2日 
+紹介記事 Smartioさんの記事にて取り上げていただきました。
+「スマートスピーカーはこう使え！」玄人がやってる究極のスマートライフ https://smartio.life/news/report/vui-smartlife-ex/</description>
+    </item>
+    
+  </channel>
+</rss>
