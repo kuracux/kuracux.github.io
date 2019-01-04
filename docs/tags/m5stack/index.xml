@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/tags/m5stack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>M5Stackでおみくじ</title>
+      <link>/projects/omikuji/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/omikuji/</guid>
+      <description>概要  開発言語　：Arduino言語 ハードウェア　：M5Stack Gray，MicroSDカード  内容 M5Stack Gray内臓のジャイロセンサを利用して、本体を振ることでおみくじを引くことができます。
+こちらのシステムを応用しています。
+M5Stackを振ることによる表示画像の切り替え
+動作 あけましておめでとうございます。
+新年の運試しをしたいと思い、おみくじを作りました。本体を振ることで結果が変わります。M5Stack Grayを用いて実現しました。 pic.twitter.com/E434VYYFcH
+&amp;mdash; クラクス (@kuracux) 2018年12月31日</description>
+    </item>
+    
+    <item>
+      <title>音に合わせてライトの色変化</title>
+      <link>/projects/loudsounddetecter/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/loudsounddetecter/</guid>
+      <description>概要  開発言語　：Arduino言語 ハードウェア　：M5Stack Fire，NeoPixel  内容 M5Stack Fire内臓のマイクを利用して大きい音を検出し、ディスプレイの色とNeoPixelのライトの色を変化させます。
+動作 音量によってライトの色が変わります。音楽に合わせると気分はパリピ。
+M5Stack FIREとNeoPixelを使っています。 pic.twitter.com/nsBlV5be8n
+&amp;mdash; クラクス (@kuracux) 2018年12月28日</description>
+    </item>
     
     <item>
       <title>M5Stackを振ることによる表示画像の切り替え</title>
