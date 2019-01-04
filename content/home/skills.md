@@ -19,7 +19,7 @@ weight = 6
 |||
 |---|---|
 | Java | 研究にてサーバサイドとAndroidアプリ，SwingによるGUIの開発 |
-| Ruby on Rails | Railsチュートリアルにて勉強中 |
+| Ruby on Rails | Railsチュートリアル,Everyday Rails終了 |
 | Arduino言語 | Arduino，ESP32，M5Stackの開発 |
 | Ruby | Webスクレイピングの際に |
 | node.js | Clovaのスキル開発にて |
