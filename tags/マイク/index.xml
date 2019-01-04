@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>マイク on kuracux</title>
+    <link>/tags/%E3%83%9E%E3%82%A4%E3%82%AF/</link>
+    <description>Recent content in マイク on kuracux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/%E3%83%9E%E3%82%A4%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>音に合わせてライトの色変化</title>
+      <link>/projects/loudsounddetecter/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/loudsounddetecter/</guid>
+      <description>概要  開発言語　：Arduino言語 ハードウェア　：M5Stack Fire，NeoPixel  内容 M5Stack Fire内臓のマイクを利用して大きい音を検出し、ディスプレイの色とNeoPixelのライトの色を変化させます。
+動作 音量によってライトの色が変わります。音楽に合わせると気分はパリピ。
+M5Stack FIREとNeoPixelを使っています。 pic.twitter.com/nsBlV5be8n
+&amp;mdash; クラクス (@kuracux) 2018年12月28日</description>
+    </item>
+    
+  </channel>
+</rss>
