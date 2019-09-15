@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/tags/m5stack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>天気予報をM5Stackで表示してみた</title>
+      <link>/projects/weatherforecastwithm5stack/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/weatherforecastwithm5stack/</guid>
+      <description>概要  開発言語　：Arduino言語 ハードウェア　：M5Stack Basic，MicroSDカード  内容 天気予報の情報として日付や天気、最高気温、最低気温、そして6時間ごとの降水確率が表示されます。また、3つのボタンを左から今日、明日、明後日の天気予報に割り当て、それぞれのボタンを押すことで表示を切り替えます。
+動作 天気予報を見る習慣がなさすぎて傘を忘れそうになることが多々あったので、天気予報を表示するガジェットをM5Stackで作りました。 pic.twitter.com/Bx8FfiPjqe
+&amp;mdash; クラクス (@kuracux) July 7, 2019 
+紹介記事 天気予報をM5Stackで表示してみた - クラクスの記録帳 https://kuracux.hatenablog.jp/entry/2019/07/13/101143</description>
+    </item>
     
     <item>
       <title>M5Stackでおみくじ</title>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberry_Pi on kuracux</title>
+    <link>/tags/raspberry_pi/</link>
+    <description>Recent content in Raspberry_Pi on kuracux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/raspberry_pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LEDマトリクスで電光掲示板を作ろう！</title>
+      <link>/projects/createelectricbulletinboard/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/createelectricbulletinboard/</guid>
+      <description>概要  開発言語　：Python ハードウェア　：Raspberry Pi，LEDマトリクスパネル  内容 16x32のLEDマトリクスパネルを2個使って電光掲示板を作りました。日本語文字列の横スクロールが可能です。動作方法および接続方法、そして電源ケーブルの整理についてまで記事にて説明しています。
+動作 ブックオフなのに本ねぇじゃ〜ん pic.twitter.com/viFmQBPQTn
+&amp;mdash; クラクス (@kuracux) May 12, 2019 
+紹介記事 ラズパイとLEDマトリクス(16×32)で電光掲示板を作ってみた - クラクスの記録帳
+https://kuracux.hatenablog.jp/entry/2019/04/28/220523
+16×32のLEDマトリクスを2つ繋げて16×64にしてみた - クラクスの記録帳
+https://kuracux.hatenablog.jp/entry/2019/05/19/170719
+LEDマトリクスを2枚使ったときの電源ケーブルまわりを整理してみた - クラクスの記録帳
+https://kuracux.hatenablog.jp/entry/2019/05/22/211131</description>
+    </item>
+    
+  </channel>
+</rss>
