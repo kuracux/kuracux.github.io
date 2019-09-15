@@ -18,8 +18,10 @@ weight = 6
 ## Programming Language
 |||
 |---|---|
+| Ruby on Rails | Webアプリケーション開発にて |
+| TypeScript | Webアプリケーション開発にて |
+| React | Webアプリケーション開発にて |
 | Java | 研究にてサーバサイドとAndroidアプリ，SwingによるGUIの開発 |
-| Ruby on Rails | 業務にて扱っている |
 | Arduino言語 | Arduino，ESP32，M5Stackの開発 |
 | Ruby | Webスクレイピングの際に |
 | node.js | Clovaのスキル開発にて |

@@ -11,6 +11,76 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>天気予報をM5Stackで表示してみた</title>
+      <link>/projects/weatherforecastwithm5stack/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/weatherforecastwithm5stack/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/weatherForecastwithM5Stack.jpg&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発言語　　　　　　：Arduino言語&lt;/li&gt;
+&lt;li&gt;ハードウェア　　　　：M5Stack Basic，MicroSDカード&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;天気予報の情報として日付や天気、最高気温、最低気温、そして6時間ごとの降水確率が表示されます。また、3つのボタンを左から今日、明日、明後日の天気予報に割り当て、それぞれのボタンを押すことで表示を切り替えます。&lt;/p&gt;
+
+&lt;h2 id=&#34;動作&#34;&gt;動作&lt;/h2&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;天気予報を見る習慣がなさすぎて傘を忘れそうになることが多々あったので、天気予報を表示するガジェットをM5Stackで作りました。 &lt;a href=&#34;https://t.co/Bx8FfiPjqe&#34;&gt;pic.twitter.com/Bx8FfiPjqe&lt;/a&gt;&lt;/p&gt;&amp;mdash; クラクス (@kuracux) &lt;a href=&#34;https://twitter.com/kuracux/status/1147666571227066373?ref_src=twsrc%5Etfw&#34;&gt;July 7, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h2&gt;
+
+&lt;p&gt;天気予報をM5Stackで表示してみた - クラクスの記録帳
+&lt;a href=&#34;https://kuracux.hatenablog.jp/entry/2019/07/13/101143&#34; target=&#34;_blank&#34;&gt;https://kuracux.hatenablog.jp/entry/2019/07/13/101143&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LEDマトリクスで電光掲示板を作ろう！</title>
+      <link>/projects/createelectricbulletinboard/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/projects/createelectricbulletinboard/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/createElectricbulletinboard.jpg&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発言語　　　　　　：Python&lt;/li&gt;
+&lt;li&gt;ハードウェア　　　　：Raspberry Pi，LEDマトリクスパネル&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;16x32のLEDマトリクスパネルを2個使って電光掲示板を作りました。日本語文字列の横スクロールが可能です。動作方法および接続方法、そして電源ケーブルの整理についてまで記事にて説明しています。&lt;/p&gt;
+
+&lt;h2 id=&#34;動作&#34;&gt;動作&lt;/h2&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ブックオフなのに本ねぇじゃ〜ん &lt;a href=&#34;https://t.co/viFmQBPQTn&#34;&gt;pic.twitter.com/viFmQBPQTn&lt;/a&gt;&lt;/p&gt;&amp;mdash; クラクス (@kuracux) &lt;a href=&#34;https://twitter.com/kuracux/status/1127371692727197696?ref_src=twsrc%5Etfw&#34;&gt;May 12, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h2&gt;
+
+&lt;p&gt;ラズパイとLEDマトリクス(16×32)で電光掲示板を作ってみた - クラクスの記録帳&lt;br /&gt;
+&lt;a href=&#34;https://kuracux.hatenablog.jp/entry/2019/04/28/220523&#34; target=&#34;_blank&#34;&gt;https://kuracux.hatenablog.jp/entry/2019/04/28/220523&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;16×32のLEDマトリクスを2つ繋げて16×64にしてみた - クラクスの記録帳&lt;br /&gt;
+&lt;a href=&#34;https://kuracux.hatenablog.jp/entry/2019/05/19/170719&#34; target=&#34;_blank&#34;&gt;https://kuracux.hatenablog.jp/entry/2019/05/19/170719&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;LEDマトリクスを2枚使ったときの電源ケーブルまわりを整理してみた - クラクスの記録帳&lt;br /&gt;
+&lt;a href=&#34;https://kuracux.hatenablog.jp/entry/2019/05/22/211131&#34; target=&#34;_blank&#34;&gt;https://kuracux.hatenablog.jp/entry/2019/05/22/211131&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>M5Stackでおみくじ</title>
       <link>/projects/omikuji/</link>
       <pubDate>Fri, 04 Jan 2019 00:00:00 +0900</pubDate>

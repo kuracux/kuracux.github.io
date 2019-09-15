@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>/projects/weatherforecastwithm5stack/</loc>
+      <lastmod>2019-09-15T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/projects/createelectricbulletinboard/</loc>
+      <lastmod>2019-09-14T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/projects/omikuji/</loc>
       <lastmod>2019-01-04T00:00:00+09:00</lastmod>
     </url>
@@ -188,6 +204,15 @@
     
     <url>
     
+      <loc>/tags/ledmatrix/</loc>
+      <lastmod>2019-09-14T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/line-notify/</loc>
       <lastmod>2018-11-22T00:00:00+09:00</lastmod>
       <priority>0</priority>
@@ -198,7 +223,7 @@
     <url>
     
       <loc>/tags/m5stack/</loc>
-      <lastmod>2019-01-04T00:00:00+09:00</lastmod>
+      <lastmod>2019-09-15T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -216,7 +241,7 @@
     <url>
     
       <loc>/projects/</loc>
-      <lastmod>2019-01-04T00:00:00+09:00</lastmod>
+      <lastmod>2019-09-15T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -225,6 +250,15 @@
     <url>
     
       <loc>/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/raspberry_pi/</loc>
+      <lastmod>2019-09-14T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
